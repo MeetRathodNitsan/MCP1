@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "main": {
+      "url":"http://127.0.0.1:8083",
+      "command": "uv",
+      "args": [
+        "--directory",
+        "F:/Project",
+        "run",
+        "main.py"
+      ]
+    }
+  }
+}

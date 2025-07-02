@@ -1,0 +1,9 @@
+mcp
+tqdm
+python-dotenv
+pinecone-client>=3.0.0
+sentence-transformers
+duckduckgo-search
+fastapi
+pydantic
+requests
