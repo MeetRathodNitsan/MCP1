@@ -27,7 +27,7 @@ Welcome to the **MCP AI Server**, a powerful and modular tool that uses **RAG-ba
 git clone git@github.com:MeetRathodNitsan/MCP1.git
 cd MCP1
 ```
-###2. Create a Virtual Environment
+### 2. Create a Virtual Environment
 
 ```bash
 python -m venv .venv
@@ -36,19 +36,19 @@ python -m venv .venv
 # macOS/Linux
 source .venv/bin/activate
 ```
-###3. Install Dependencies
+### 3. Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-###4. Configure Environment Variables
+### 4. Configure Environment Variables
 ```bash
 OPENAI_API_KEY=your-api-key...
 PINECONE_API_KEY=...
 PINECONE_ENVIRONMENT=your-env
 ```
 
-###5. How to use it
+### 5. How to use it
 ```bash
 uv --directory F:/Project run main.py
 ```
